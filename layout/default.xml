@@ -5,7 +5,7 @@
                 <argument name="logo_file" xsi:type="string">images/dawan-logo.png</argument>
                 <argument name="logo_width" xsi:type="number">150</argument>
                 <argument name="logo_height" xsi:type="number">150</argument>
-                <argument name="logo_alt" xsi:type="string">Logo DAWAN</argument>
+                <argument name="logo_alt" xsi:type="string">Logo Dawan</argument>
             </arguments>
         </referenceBlock>
     </body>

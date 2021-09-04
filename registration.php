@@ -6,4 +6,4 @@
 
 use \Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::THEME, 'frontend/Magento/DAWAN', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::THEME, 'frontend/Magento/Dawan', __DIR__);
